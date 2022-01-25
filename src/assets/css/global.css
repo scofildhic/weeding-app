@@ -1,0 +1,93 @@
+.remaining-height {
+  height: calc(100vh - 140px);
+}
+.main-navigation {
+  padding: 0 12px;
+}
+h3.title {
+  margin-top: 1rem !important;
+}
+.radio-buttons {
+}
+.radio-buttons .btn {
+}
+.radio-buttons .btn {
+  border-radius: 0;
+  box-shadow: none;
+}
+.radio-buttons .btn:first-child {
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+}
+.radio-buttons .btn:last-child {
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+.rbc-ellipsis,
+.rbc-event-label,
+.rbc-row-segment .rbc-event-content,
+.rbc-show-more {
+  padding: 12px;
+}
+.main-container {
+  padding: 12px;
+  min-height: 100vh;
+}
+
+.action-buttons {
+}
+.action-buttons .btn {
+  margin: 0 3px;
+}
+.timepicker-digital-display {
+  background-color: #1565c0;
+}
+.timepicker-canvas-bg {
+  fill: #1565c0;
+}
+.timepicker-tick:hover {
+  background: #1e88e5 !important;
+}
+.timepicker-canvas line {
+  stroke: #1565c0 !important;
+}
+.timepicker-canvas-bearing {
+  fill: #1565c0 !important;
+}
+
+.settings .card {
+  min-height: 295px;
+}
+
+.range-field {
+  padding: 40px 0;
+}
+.settings .time-range .noUi-connects {
+  background: #3f51b5;
+}
+.settings .time-range .noUi-connect {
+  background: #2196f3 !important;
+}
+
+.chips .input {
+  width: 200px !important;
+}
+
+.card-statistics {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.card-value{
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  font-size: larger;
+}
+textarea{
+  min-height: 150px !important;
+}
+span.rbc-toolbar-label, span.rbc-btn-group button{
+  text-transform: capitalize;
+}
